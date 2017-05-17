@@ -3,7 +3,7 @@
 I wrote this code in order to figure out my JEE roll number that I forgot. 
 
 <p>
-  <img src="./Screenshots/website-screenshot.png" width="600"/>
+  <img src="./Screenshots/website-screenshot.png" width="600" style= "border: 2px solid blue;"/>
 </p>
 
 This is a simple node script that requests("spams") the website with all possible roll numbers and your date of birth
